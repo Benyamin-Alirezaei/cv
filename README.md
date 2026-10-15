@@ -5,17 +5,15 @@
 📧 Benyamin_Alirezaei@yahoo.com · 🐙 [github.com/Benyamin-Alirezaei](https://github.com/Benyamin-Alirezaei)
 
 ## About Me
-
-IT enthusiast with a solid foundation in computer networking, Linux system administration (LPIC-1 level) and Python programming. Motivated to keep learning and to grow in a technical role.
-
+IT and network specialist with over 10 years of hands-on experience in network implementation, Windows Server administration (Active Directory, DHCP, DNS), Cisco and MikroTik routing and switching, VoIP (Asterisk/Elastix) and desktop support.
+ Holds a BSc in Computer Engineering, works with Linux at LPIC-1 level and uses Python for automation and small tools. Reliable team player who enjoys learning new technologies.
 
 
 
 ## Technical Skills
 
 | Area | Skills |
-|---|---|
-| **Networking** | TCP/IP, DNS, DHCP, WINS, NAT, ARP, VLAN, STP, ACL, port security |
+|---|---|**IT & Network Specialist · Linux · Python**
 | **Cisco** | Static routing, RIP, OSPF, EIGRP, VLAN, ACL, port security, DHCP, STP, NAT |
 | **MikroTik** | NAT, DHCP, DNS, ARP, firewall, static routing |
 | **Microsoft** | Windows Server NT / 2000 / 2003 / 2008, Active Directory, DHCP, DNS |
