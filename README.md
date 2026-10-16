@@ -13,7 +13,7 @@ IT and network specialist with over 10 years of hands-on experience in network i
 ## Technical Skills
 
 | Area | Skills |
-|---|---|**IT & Network Specialist · Linux · Python**
+|---|---|**IT & Network Specialist · Linux · Python** skiils
 | **Cisco** | Static routing, RIP, OSPF, EIGRP, VLAN, ACL, port security, DHCP, STP, NAT |
 | **MikroTik** | NAT, DHCP, DNS, ARP, firewall, static routing |
 | **Microsoft** | Windows Server NT / 2000 / 2003 / 2008, Active Directory, DHCP, DNS |
